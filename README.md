@@ -73,7 +73,8 @@
 
 ⭐ За мотивацию и борьбу с блокировками - [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 
-⭐ Отдельная благодарность [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van) за создание такого инструмента
+⭐ Отдельная благодарность [zapret](https://github.com/bol-van/zapret) - [bol-van](https://github.com/bol-van) за создание такого инструмента ⭐
+
 
 
 
