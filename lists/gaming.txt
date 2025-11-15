@@ -128,6 +128,10 @@ callersbane.com
 minecraft-services.net
 minecraftservices.com
 minecraftshop.com
+modrinth.com
+modrinth.gg
+essential.gg
+sparkuniverse.com
 
 # Apex Legends
 apexlegends.com
