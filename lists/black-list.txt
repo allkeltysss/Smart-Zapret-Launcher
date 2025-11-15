@@ -231,7 +231,7 @@ amzndns.com
 amzndns.net
 amzndns.org
 
-# Akami
+# Akamai
 akamai.net
 akamaized.net
 akamaiedge.net
@@ -243,4 +243,5 @@ llnwd.net
 play.google.com
 play.google.ru
 metacritic.com
+
 myanimelist.net
